@@ -2,7 +2,7 @@
 A simple python program that makes downloading and organizing mangas and albums from lu.scio.us a little easier.
 
 HOW TO USE
-  1. Enter "lu.scio.us" into your Chrome.
+  1. Go to luscious.net in Chrome. Other browsers may work, but haven't been tested.
   2. Select a manga you would like to download.
   3. If possible, change the view to "Blog Style."
   4. Scroll all the way to the bottom of this page. Larger albums with load pages on the fly, so keep scrolling.
